@@ -3,10 +3,18 @@
     "displayName": "Dark_as_Darkula",
     "description": "This theme contain Dark purple color of shade and the interactive sublime-text token colors.",
     "version": "0.0.1",
-    "publisher": "қųиąɩ ɧɛɖąơơ",
+    "publisher": "kunalhedaoo25",
     "engines": {
         "vscode": "^1.62.0"
     },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "kunal hedaoo",
+        "dark as darkula",
+        "darkula theme",
+        "darkula dark theme"
+    ],
     "categories": [
         "Themes"
     ],
