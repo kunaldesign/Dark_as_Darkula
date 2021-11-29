@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "Dark-as-Darkula"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+# Title: Dark_as_Darkula Theme
+## Theme: Dark
+## Desc: 
+    This is source code repository of vs-code color theme. 
+    This theme contain Dark purple color of shade and the interactive sublime-text token colors.
+### Ref: 
+    1. VS-code Theme Color Reference:- https://code.visualstudio.com/api/references/theme-color
+     2. Find color schemes at:- https://coolors.co/
+     3. Get Color plettes from an image:- https://hexcolor.co/image-to-colors
