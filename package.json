@@ -1,5 +1,25 @@
 {
-  "dependencies": {
-    "vsce": "^2.5.1"
-  }
+   "name": "Dark-as-Darkula",
+   "displayName": "Dark_as_Darkula",
+   "description": "This theme contain Dark purple color of shade and the interactive sublime-text token colors.",
+   "version": "1.0.0",
+   "publisher": "kunalhedaoo25",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/kunaldesign/Dark_as_Darkula"
+   },
+   "engines": {
+      "vscode": "^1.62.0"
+   },
+   "keywords": [
+      "theme",
+      "dark theme",
+      "kunal hedaoo",
+      "dark as darkula",
+      "darkula theme",
+      "darkula dark theme"
+   ],
+   "categories": [
+      "Themes"
+   ]
 }
