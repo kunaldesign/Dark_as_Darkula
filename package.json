@@ -21,5 +21,14 @@
    ],
    "categories": [
       "Themes"
-   ]
+   ],
+   "contributes": {
+      "themes": [
+          {
+              "label": "Dark_as_Darkula",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Dark_as_Darkula-color-theme.json"
+          }
+      ]
+  }
 }
