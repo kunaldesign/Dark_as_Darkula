@@ -4,6 +4,7 @@
    "description": "This theme contain Dark purple color of shade and the interactive sublime-text token colors.",
    "version": "1.1.0",
    "publisher": "kunalhedaoo25",
+   "icon": "images/icon.png",
    "repository": {
       "type": "git",
       "url": "https://github.com/kunaldesign/Dark_as_Darkula"
